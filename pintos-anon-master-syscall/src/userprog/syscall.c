@@ -81,7 +81,7 @@ syscall_handler (struct intr_frame *f)
       break;
   }
 
-  // thread_exit ();
+
 }
 
 bool create (const char *file, unsigned initial_size) {
