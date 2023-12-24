@@ -11,7 +11,7 @@
 - cd /userprog/build
 - 'pintos-mkdisk filesys.dsk --filesys-size=2'
 - 'pintos -f -q'.
-- 'make' in folder /src/example
+- 'make' in folder /src/examples
 - 'pintos -p ../src/examples/echo -a echo -- -q' ( replace by link of echo.c)
 - pintos -q run 'echo x'
 - 'make check'
