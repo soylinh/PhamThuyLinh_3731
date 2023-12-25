@@ -7,6 +7,7 @@
 - cd /threads/build, then 'make check'
 ## Project 2: Syscall
 - Edit your path in file **pintos-gdb**, **pintos** (line 103,257,621), **pintos.pm**(line 362) in folder  **/src/utils**
+- source ~/.bashrc
 - 'make' in folder /src/userprog
 - cd /userprog/build
 - 'pintos-mkdisk filesys.dsk --filesys-size=2'
